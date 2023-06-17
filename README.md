@@ -14,16 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| Cravar Cabo RJ45                                  |   IF                                  |
+| ----------------------------------- | ----------------------------------- |
+| [![Alt Text 1](https://img.youtube.com/vi/E5R-2HOOX-A/0.jpg)](https://www.youtube.com/watch?v=E5R-2HOOX-A) | [![Alt Text 2](https://img.youtube.com/vi/m1sSVSh8kQE/0.jpg)](https://www.youtube.com/watch?v=m1sSVSh8kQE) |
+ [Assista à playlist no YouTube](https://www.youtube.com/playlist?list=PL1jV2VCCeGqmXbE0-qQjHwnp6y4-fa3Mv)
 
-<table>    
-<tr>
-  <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=carmacedo&show_icons=true&theme=synthwave&include_all_commits=true" />
-  </td>
-  <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmacedo&layout=compact&theme=synthwave&langs_count=15" /> 
-  </td>
-</tr>
-</table>
 
-</div>
