@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Acredito que a educação é uma ferramenta poderosa para capacitar as pessoas a conquistarem seus objetivos e terem sucesso profissional. Por isso, estou comprometida em criar conteúdos educacionais de qualidade, que inspirem e incentivem uma aprendizagem continua.
+Faço voluntariado em uma universidade sênior, compartilhando meus conhecimentos de informática, abordando temas como uso de computadores, navegação na internet, envio de e-mails, redes sociais e aplicativos úteis. Adapto o meu ensino às necessidades e interesses destes alunos. É inspirador ver como os idosos se tornam mais confiantes e capacitados à medida que aprendem a utilizar as ferramentas digitais.
+Em qualquer destas faixas etárias, cada aula é uma nova oportunidade de compartilhar o meu conhecimento, aprender com os alunos e fortalecer os laços com a comunidade. 
+
+
+
+
+
+
+
 <!--
 **carmacedo/carmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
