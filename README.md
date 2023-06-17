@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Microsoft Innovative Educator Expert 2022-2023](https://img.shields.io/badge/Microsoft%20Innovative%20Educator%20Expert-2022--2023-blue?style=for-the-badge&logo=microsoft)](https://education.microsoft.com/en-us/community/find-an-educator/expert/detail/carla-macedo.cb88d21b)
+
 <table>    
 <tr>
   <td align="center">
