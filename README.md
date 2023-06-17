@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=afonsomsalvador&show_icons=true&theme=synthwave&include_all_commits=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=carmacedo&show_icons=true&theme=synthwave&include_all_commits=true" />
   </td>
   <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomsalvador&layout=compact&theme=synthwave&langs_count=15" /> 
+    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmacedo&layout=compact&theme=synthwave&langs_count=15" /> 
   </td>
 </tr>
 </table>
