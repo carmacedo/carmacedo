@@ -1,12 +1,6 @@
 🔭
-Acredito que a educação é uma ferramenta poderosa para capacitar as pessoas a conquistarem seus objetivos e terem sucesso profissional. Por isso, estou comprometida em criar conteúdos educacionais de qualidade, que inspirem e incentivem uma aprendizagem continua.
-Faço voluntariado em uma universidade sênior, compartilhando meus conhecimentos de informática, abordando temas como uso de computadores, navegação na internet, envio de e-mails, redes sociais e aplicativos úteis. Adapto o meu ensino às necessidades e interesses destes alunos. É inspirador ver como os idosos se tornam mais confiantes e capacitados à medida que aprendem a utilizar as ferramentas digitais.
-Em qualquer destas faixas etárias, cada aula é uma nova oportunidade de compartilhar o meu conhecimento, aprender com os alunos e fortalecer os laços com a comunidade. 
-
-
-
-
-
+Acredito que a educação é uma ferramenta poderosa para capacitar as pessoas a conquistarem seus objetivos e terem sucesso profissional. Por isso, estou comprometida em criar conteúdos educacionais de qualidade, que inspirem e incentivem uma aprendizagem continua. Para além do ensino profissional de nivel 4 e 5, faço voluntariado na universidade sénior TKM, partilho os meus conhecimentos de informática, abordando temas como uso de computadores, navegação na internet, envio de e-mails, redes sociais e aplicativos úteis, nomeadamente app mobile. Adapto o meu ensino às necessidades e interesses destes alunos. É inspirador ver como os idosos se tornam mais confiantes e se sentem mais integrados na sociedade digital à medida que aprendem a utilizar as ferramentas digitais.
+Em qualquer destas faixas etárias, cada aula é uma nova oportunidade de partilhar o meu conhecimento e aprender com os alunos, no finalde cada aula sinto que acrecentei e aprendi também, espero continuar com a mesma motivação e a fortalecer os laços com a comunidade. 
 
 
 <!--
